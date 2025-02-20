@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.b2f5fd8d.css",
-    "main.js": "/repository-name/static/js/main.e9de02fb.js",
-    "static/js/453.de42e536.chunk.js": "/repository-name/static/js/453.de42e536.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.b2f5fd8d.css.map": "/repository-name/static/css/main.b2f5fd8d.css.map",
-    "main.e9de02fb.js.map": "/repository-name/static/js/main.e9de02fb.js.map",
-    "453.de42e536.chunk.js.map": "/repository-name/static/js/453.de42e536.chunk.js.map"
+    "main.css": "/my-kids-app/static/css/main.b2f5fd8d.css",
+    "main.js": "/my-kids-app/static/js/main.35c43188.js",
+    "static/js/453.de42e536.chunk.js": "/my-kids-app/static/js/453.de42e536.chunk.js",
+    "index.html": "/my-kids-app/index.html",
+    "main.b2f5fd8d.css.map": "/my-kids-app/static/css/main.b2f5fd8d.css.map",
+    "main.35c43188.js.map": "/my-kids-app/static/js/main.35c43188.js.map",
+    "453.de42e536.chunk.js.map": "/my-kids-app/static/js/453.de42e536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f5fd8d.css",
-    "static/js/main.e9de02fb.js"
+    "static/js/main.35c43188.js"
   ]
 }
